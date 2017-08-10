@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/vuzer/my-first-app/conf/application.conf,/home/vuzer/my-first-app/target/scala-2.12/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/vuzer/my-first-app/conf/routes,/home/vuzer/my-first-app/target/scala-2.12/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/vuzer/my-first-app/conf/logback.xml,/home/vuzer/my-first-app/target/scala-2.12/classes/logback.xml)[0m

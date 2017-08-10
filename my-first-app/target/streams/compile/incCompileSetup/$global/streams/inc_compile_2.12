@@ -1,0 +1,647 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/vuzer/my-first-app/target/scala-2.12/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/HomeController.class
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/MyJsonSample.class
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> /home/vuzer/my-first-app/target/scala-2.12/classes/models/MyServerConfigStartup.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/ReverseApplication.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/ReverseAssets.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/ReverseMyJsonSample.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/javascript/ReverseApplication.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/javascript/ReverseMyJsonSample.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/routes$javascript.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> /home/vuzer/my-first-app/target/scala-2.12/classes/controllers/routes.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/router/Routes.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/router/RoutesPrefix$.class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/router/RoutesPrefix.class
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/views/html/index$.class
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/views/html/index.class
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/views/html/main$.class
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/classes/views/html/main.class
+binary dependencies:
+31 items
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> /home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> /home/vuzer/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.9.jar
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> /home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> /home/vuzer/.ivy2/cache/io.ebean/ebean/jars/ebean-10.3.1.jar
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.3.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.3.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+16 items
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> /home/vuzer/my-first-app/app/controllers/HomeController.java
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> /home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> /home/vuzer/my-first-app/app/controllers/MyJsonSample.java
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> /home/vuzer/my-first-app/app/models/MyServerConfigStartup.java
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /home/vuzer/my-first-app/app/controllers/Application.java
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /home/vuzer/my-first-app/app/controllers/MyJsonSample.java
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> /home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> controllers.HomeController
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> controllers.MyJsonSample
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> models.MyServerConfigStartup
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseApplication
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseAssets
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseMyJsonSample
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseApplication
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseMyJsonSample
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> controllers.routes
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> controllers.routes$javascript
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> router.Routes
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> views.html.index
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> views.html.index$
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> views.html.main
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> views.html.main$
+used names:
+371 items
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> +
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <byname>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <init>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <refinement>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <repeated>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> A
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Any
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> AnyRef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Asset
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Assets
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> B
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Boolean
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Call
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> F
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Map
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Nothing
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Object
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> PathBindable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Predef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseApplication
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseAssets
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseMyJsonSample
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseRouteContext
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Right
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> String
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T2
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Tuple2
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _defaultPrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _prefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _root_
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _rrc
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> api
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> apply
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> assetPathBindable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> core
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> endsWith
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> file
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> implicitly
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> libs
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> mvc
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> play
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> routing
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> scala
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> unbind
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> +
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <byname>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <init>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <refinement>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Any
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> AnyRef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Asset
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Assets
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Boolean
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> F
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Nothing
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Object
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> PathBindable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Predef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseApplication
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseAssets
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseMyJsonSample
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseRouteContext
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Right
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> String
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> T
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _defaultPrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _prefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _root_
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> api
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> assetPathBindable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> empty
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> endsWith
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> implicitly
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascript
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascriptUnbind
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> libs
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> mvc
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> play
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> routing
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> scala
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> +
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> ++
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> :+
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> <byname>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> <init>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> <refinement>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> <repeated>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> ?0
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> A
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> A1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> A2
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> AbstractPartialFunction
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Action
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Any
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> AnyContent
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> AnyRef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Application
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Application_1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Asset
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Assets
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Assets_2
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> B
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> B1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Boolean
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> CanBuildFrom
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Class
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> ClassLoader
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Coll
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> DynamicPart
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Either
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> F
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Function1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Function2
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> GenTraversableOnce
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> GeneratedRouter
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Handler
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> HandlerDef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> HandlerInvoker
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> HandlerInvokerFactory
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> HttpErrorHandler
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> List
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> MyJsonSample
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> MyJsonSample_0
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Nil
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> None
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Nothing
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Object
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Option
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Param
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> ParamsExtractor
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> PartialFunction
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> PathBindable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> PathPart
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> PathPattern
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Predef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Product
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> RequestHeader
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Result
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> ReverseRouteContext
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Right
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Route
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> RouteParams
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Routes
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> RoutesPrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Seq
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Serializable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> StaticPart
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> String
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> T
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> T0
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> T1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> T2
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> T3
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> That
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Tuple3
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> Unit
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> _$1
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> ajax
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> api
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> apply
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> asInstanceOf
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> assetPathBindable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> call
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> canBuildFrom
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> collection
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Application_ajax4_invoker
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Application_ajax4_route
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Application_index3_invoker
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Application_index3_route
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Assets_versioned0_invoker
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Assets_versioned0_route
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_MyJsonSample_sayHello1_invoker
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_MyJsonSample_sayHello1_route
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_MyJsonSample_sayHello22_invoker
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> controllers_MyJsonSample_sayHello22_route
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> core
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> createInvoker
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> defaultPrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> e
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> empty
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> endsWith
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> errorHandler
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> fakeValue
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> file
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> foldLeft
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> fromPath
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> get
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> getClass
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> getClassLoader
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> http
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> immutable
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> index
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> isEmpty
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> isInstanceOf
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> libs
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> mvc
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> package
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> params
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> passThrough
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> path
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> play
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> prefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> router
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> routing
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> s
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> sayHello
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> sayHello2
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> scala
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> setPrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> unapply
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> unary_!
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> unchecked
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> versioned
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> wrapJava
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> <init>
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> AnyRef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Function0
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Object
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Predef
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> RoutesPrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> String
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Unit
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> _prefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> _prefix_=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> byNamePrefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> p
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> prefix
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> scala
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> <init>
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> <repeated>
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> A
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Any
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Appendable
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Asset
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Assets
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> BaseScalaTemplate
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Call
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Class
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> ClassTag
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Context
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Field
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Format
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Function1
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Html
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> HtmlFormat
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Http
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Implicit
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> JavaConverters
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> JavaScript
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Nothing
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> PlayFormsMagicForJava
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> PlayMagic
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> PlayMagicForJava
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Predef
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> ReverseAssets
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Seq
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> String
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> T
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Template1
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> TwirlFeatureImports
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> TwirlHelperImports
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Txt
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> Xml
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> _$7
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> _display_
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> _root_
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> api
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> apply
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> collection
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> controllers
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> core
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> data
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> format
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> html
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> i18n
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> index
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> j
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> java
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> lang
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> main
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> materializeClassTag
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> models
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> msg
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> mvc
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> package
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> play
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> raw
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> reflect
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> routes
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> scala
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> string2Asset
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> templates
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> twirl
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> util
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> versioned
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> views
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> <init>
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> <repeated>
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> A
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Any
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Appendable
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Asset
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Assets
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> BaseScalaTemplate
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Call
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Class
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> ClassTag
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Context
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Field
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Format
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Function1
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Html
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> HtmlFormat
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Http
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Implicit
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> JavaConverters
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> JavaScript
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Nothing
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> PlayFormsMagicForJava
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> PlayMagic
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> PlayMagicForJava
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Predef
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> ReverseAssets
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Seq
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> String
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> T
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Template2
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> TwirlFeatureImports
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> TwirlHelperImports
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Txt
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> Xml
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> _$7
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> _display_
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> _root_
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> api
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> apply
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> collection
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> content
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> controllers
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> core
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> data
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> format
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> html
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> i18n
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> j
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> java
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> lang
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> main
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> materializeClassTag
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> models
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> mvc
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> package
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> play
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> raw
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> reflect
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> routes
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> scala
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> string2Asset
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> templates
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> title
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> twirl
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> util
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> versioned
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> views
+product stamps:
+19 items
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/HomeController.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/MyJsonSample.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/ReverseApplication.class -> lastModified(1502182582000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/ReverseAssets.class -> lastModified(1502182582000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/ReverseMyJsonSample.class -> lastModified(1502182582000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/javascript/ReverseApplication.class -> lastModified(1502182582000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class -> lastModified(1502182582000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/javascript/ReverseMyJsonSample.class -> lastModified(1502182582000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/routes$javascript.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/controllers/routes.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/models/MyServerConfigStartup.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/router/Routes.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/router/RoutesPrefix$.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/router/RoutesPrefix.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/views/html/index$.class -> lastModified(1502290273000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/views/html/index.class -> lastModified(1502290273000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/views/html/main$.class -> lastModified(1502182581000)
+/home/vuzer/my-first-app/target/scala-2.12/classes/views/html/main.class -> lastModified(1502182581000)
+source stamps:
+11 items
+/home/vuzer/my-first-app/app/controllers/Application.java -> hash(343be0aaf601caed28c7f43813480e80a12a9d8a)
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> hash(3e41fd22dc4d04581ea9e4cea3a9903e7378ff5b)
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> hash(f820fdc6a2e4ef2ec1179c704e6e58df6ba2a8e9)
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> hash(9d3f0864ad585df50faf1a9d7f789c2997d62c6d)
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> hash(532a65b4e4da83731c876eeecb61131a913e3448)
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> hash(e8b53fe0d1ae55ba49b9cebb91b9f11b2919a84e)
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> hash(cf919414795bc91bb75c62267390b139a0a59b86)
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> hash(7bac3ebab5d4656182e5c47777149aec5c6b5da2)
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> hash(3be5a7e86047127496a57dc82e4113641a0e09ff)
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> hash(3451b8bb85dba14fb5566dcc732d541f6745313e)
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> hash(5d0950316ac090a9d33b4f7a7fe0cf9cbeea837a)
+binary stamps:
+8 items
+/home/vuzer/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.9.jar -> lastModified(1497228831000)
+/home/vuzer/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.2.jar -> lastModified(1500510809000)
+/home/vuzer/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.2.jar -> lastModified(1500510673000)
+/home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar -> lastModified(1500510737000)
+/home/vuzer/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.3.jar -> lastModified(1498369950000)
+/home/vuzer/.ivy2/cache/io.ebean/ebean/jars/ebean-10.3.1.jar -> lastModified(1495360672000)
+/home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1501209531000)
+class names:
+8 items
+/home/vuzer/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.8.9.jar -> com.fasterxml.jackson.databind.JsonNode
+/home/vuzer/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.2.jar -> play.core.j.PlayFormsMagicForJava$
+/home/vuzer/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.2.jar -> play.core.j.PlayMagicForJava$
+/home/vuzer/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.2.jar -> controllers.Assets$
+/home/vuzer/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.3.jar -> play.twirl.api.BaseScalaTemplate
+/home/vuzer/.ivy2/cache/io.ebean/ebean/jars/ebean-10.3.1.jar -> io.ebean.event.ServerConfigStartup
+/home/vuzer/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.reflect.package$
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Class
+internal apis:
+11 items
+/home/vuzer/my-first-app/app/controllers/Application.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdx4mgn3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdAAyL2hvbWUvdnV6ZXIvbXktZmlyc3QtYXBwL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ0O+Cq9gHK7SjH9DgTSA6AoSqdig==
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCPFYvAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAACZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwVmr1YHQADW5vdEFjY2VwdGFibGVzcQB+AAzCczirdAAGbm90aWZ5c3EAfgAMw8E7QnQABEZST01zcQB+AAxh5nyKdAAQbW92ZWRQZXJtYW5lbnRseXNxAH4ADKM0iO90ABBDT05URU5UX0xBTkdVQUdFc3EAfgAMrwgMrXQAB0NSRUFURURzcQB+AAyrfLS+dAARdGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAyJnJqPdAAHV0FSTklOR3NxAH4ADPLqw4B0AAhDT05USU5VRXNxAH4ADG1rNgp0AAtTRVRfQ09PS0lFMnNxAH4ADIk6J0V0ABFwZXJtYW5lbnRSZWRpcmVjdHNxAH4ADDmCZr90ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgAMV4bt0HQADENPTlRFTlRfVFlQRXNxAH4ADJuZSZV0AApiYWRSZXF1ZXN0c3EAfgAMrB9sbXQABHdhaXRzcQB+AAz3zWVrdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4ADEWyRuV0AApVU0VSX0FHRU5Uc3EAfgAMuJKZKXQAA2N0eHNxAH4ADLOj/XN0AARIT1NUc3EAfgAMGK7H9HQAC0NPTlRFTlRfTUQ1c3EAfgAMAIfF63QAB3JlcXVlc3RzcQB+AAzOKAxidAAQWF9GT1JXQVJERURfUE9SVHNxAH4ADDZePvN0AA9wYXltZW50UmVxdWlyZWRzcQB+AAxve02VdAALQkFEX1JFUVVFU1RzcQB+AAwNIyz6dAAMTUFYX0ZPUldBUkRTc3EAfgAMu9x7xHQAEFhfRk9SV0FSREVEX0hPU1RzcQB+AAwXeI7NdAAIcmVkaXJlY3RzcQB+AAx+efxhdAAHVFJBSUxFUnNxAH4ADIA9+SR0ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAwnALvrdAANQVVUSE9SSVpBVElPTnNxAH4ADNAhaxB0AA1DQUNIRV9DT05UUk9Mc3EAfgAMkpKZhHQAD05PVF9JTVBMRU1FTlRFRHNxAH4ADOOac4x0AAZlcXVhbHNzcQB+AAxdaaFgdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4ADG79fBV0AAtSRVRSWV9BRlRFUnNxAH4ADO7GBrN0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgAM3dTB93QACENPTkZMSUNUc3EAfgAMXy9kSXQADkFDQ0VQVF9DSEFSU0VUc3EAfgAM8q3ahXQAA1ZJQXNxAH4ADL5iaZZ0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAyy38AwdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4ADElrz+F0AAhub3RGb3VuZHNxAH4ADNOeqzF0ABFNT1ZFRF9QRVJNQU5FTlRMWXNxAH4ADEHJdl50AAJURXNxAH4ADOw8yr50ABBDT05URU5UX0xPQ0FUSU9Oc3EAfgAM7vqW6nQAD1BBUlRJQUxfQ09OVEVOVHNxAH4ADGkmcPR0ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4ADNIvYbl0AARFVEFHc3EAfgAMNKFesHQAD0xFTkdUSF9SRVFVSVJFRHNxAH4ADDiI0GB0AAxVTkFVVEhPUklaRURzcQB+AAwGAU66dAAWVU5TVVBQT1JURURfTUVESUFfVFlQRXNxAH4ADHInQzF0AAdSRUZFUkVSc3EAfgAMGeoIXnQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4ADP7elm50AAZPUklHSU5zcQB+AAwGhJKJdAAPQUNDRVBUX0xBTkdVQUdFc3EAfgAMCOASInQADE5PVF9NT0RJRklFRHNxAH4ADKF4eLF0ABpIVFRQX1ZFUlNJT05fTk9UX1NVUFBPUlRFRHNxAH4ADBdjU2l0ABtBQ0NFU1NfQ09OVFJPTF9BTExPV19PUklHSU5zcQB+AAxqFrqidAAISUZfUkFOR0VzcQB+AAzUsXSMdAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4ADD+aBSx0ABR1bnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4ADIFiYkR0ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgAMmpJcNnQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4ADPxTZsl0AA5DT05URU5UX0xFTkdUSHNxAH4ADNhzImB0AAtJTV9BX1RFQVBPVHNxAH4ADHRE3210AApTRVRfQ09PS0lFc3EAfgAM3RlvD3QACW5vdGlmeUFsbHNxAH4ADOv+Ob10AANBR0VzcQB+AAx3c3ZCdAALQkFEX0dBVEVXQVlzcQB+AAxrzjk8dAASRVhQRUNUQVRJT05fRkFJTEVEc3EAfgAMld9/9HQACkNPTk5FQ1RJT05zcQB+AAwrRvmGdAAJRk9SV0FSREVEc3EAfgAM7UArk3QAAk9Lc3EAfgAMAwOqy3QAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAwBbKtHdAAFZm91bmRzcQB+AAzSjUNWdAAMdW5hdXRob3JpemVkc3EAfgAMXGfKIHQACHJlc3BvbnNlc3EAfgAMzQ/RK3QABUZPVU5Ec3EAfgAMPV3tYnQABjxpbml0PnNxAH4ADHhjxhl0AAREQVRFc3EAfgAMHY6d63QADUNPTlRFTlRfUkFOR0VzcQB+AAytLb2rdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAyf8COcdAASUEVSTUFORU5UX1JFRElSRUNUc3EAfgAMmYg6jHQADkhvbWVDb250cm9sbGVyc3EAfgAMTKkqPnQAEVRPT19NQU5ZX1JFUVVFU1RTc3EAfgAM/tMZ9HQAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAw6AJhqdAAER09ORXNxAH4ADLDfTph0ACBBQ0NFU1NfQ09OVFJPTF9BTExPV19DUkVERU5USUFMU3NxAH4ADGitC5B0AAljbGVhckxhbmdzcQB+AAzksKwVdAAOTk9UX0FDQ0VQVEFCTEVzcQB+AAwzJmMldAAGc3RhdHVzc3EAfgAM4PwAGnQABkVYUEVDVHNxAH4ADMi9KXd0AAhMT0NBVElPTnNxAH4ADI1X3v90AARWQVJZc3EAfgAMm5qXDHQAEFdXV19BVVRIRU5USUNBVEVzcQB+AAwm2P7adAAEVE9ET3NxAH4ADLWvp1p0AAlmb3JiaWRkZW5zcQB+AAx3OLPmdAAPWF9GT1JXQVJERURfRk9Sc3EAfgAM+s8VwHQACEFDQ0VQVEVEc3EAfgAMHshj0HQACk5PX0NPTlRFTlRzcQB+AAwNXwSqdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgAM2IyJmHQAB1VQR1JBREVzcQB+AAxSvnQndAAJTk9UX0ZPVU5Ec3EAfgAMZJVy43QAB3Nlc3Npb25zcQB+AAzTGgHjdAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgAM3HyJDXQAB0VYUElSRVNzcQB+AAxWBfAidAAIc2VlT3RoZXJzcQB+AAz96JU2dAAfUkVRVUVTVEVEX1JBTkdFX05PVF9TQVRJU0ZJQUJMRXNxAH4ADPRNvWN0ABBVUEdSQURFX1JFUVVJUkVEc3EAfgAMiFNBu3QACHRvU3RyaW5nc3EAfgAMG5UQbnQABkFDQ0VQVHNxAH4ADNeonIJ0AApjaGFuZ2VMYW5nc3EAfgAMvrzo3XQAD0dBVEVXQVlfVElNRU9VVHNxAH4ADOpVPD90AAZTRVJWRVJzcQB+AAzmrxn7dAAdQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9NRVRIT0RzcQB+AAwwWaJfdAAUVU5QUk9DRVNTQUJMRV9FTlRJVFlzcQB+AAwNqisPdAAWQUNDRVNTX0NPTlRST0xfTUFYX0FHRXNxAH4ADHaRiDZ0AA1MQVNUX01PRElGSUVEc3EAfgAMOxEg2nQAHUFDQ0VTU19DT05UUk9MX0VYUE9TRV9IRUFERVJTc3EAfgAMKkoyfXQAHkFDQ0VTU19DT05UUk9MX1JFUVVFU1RfSEVBREVSU3NxAH4ADCyk/yl0AAVmbGFzaHNxAH4ADEgEWPd0ABNpbnRlcm5hbFNlcnZlckVycm9yc3EAfgAMkGAOAXQAAm9rc3EAfgAMU+T5w3QABUFMTE9Xc3EAfgAMEaypO3QABkNPT0tJRXNxAH4ADIa2HeF0ABFJRl9NT0RJRklFRF9TSU5DRXNxAH4ADCfmaxx0AAhnZXRDbGFzc3NxAH4ADMYVQ1R0ABlDT05URU5UX1RSQU5TRkVSX0VOQ09ESU5Hc3EAfgAMWd3wkXQABGxhbmdzcQB+AAwohI2xdAAdTk9OX0FVVEhPUklUQVRJVkVfSU5GT1JNQVRJT05zcQB+AAy94qt3dAAGUFJBR01Bc3EAfgAMl88bpXQACElGX01BVENIc3EAfgAMF7MJmHQAHVBST1hZX0FVVEhFTlRJQ0FUSU9OX1JFUVVJUkVEc3EAfgAMNiScB3QADVJFU0VUX0NPTlRFTlRzcQB+AAxsU5xldAAJU0VFX09USEVSc3EAfgAMwrCSwHQAEUZBSUxFRF9ERVBFTkRFTkNZc3EAfgAMeJowk3QAEENPTlRFTlRfRU5DT0RJTkdzcQB+AAzWOwQtdAAFUkFOR0VzcQB+AAx/4J9PdAAJVVNFX1BST1hZc3EAfgAMfCU7v3QAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgAMZrTXDnQABkxPQ0tFRHNxAH4ADCi6WIt0AAlGT1JCSURERU5zcQB+AAwbRyY4dAASTUVUSE9EX05PVF9BTExPV0VEc3EAfgAMUlvm7XQADUlGX05PTkVfTUFUQ0hzcQB+AAxKdvc2dAANQUNDRVBUX1JBTkdFU3NxAH4ADJs3tCR0AAlub0NvbnRlbnRzcQB+AAxP97PbdAAQWF9SRVFVRVNURURfV0lUSHNxAH4ADFa9BAN0ABFYX0ZPUldBUkRFRF9QUk9UT3NxAH4ADOcK+nx0AAxNVUxUSV9TVEFUVVNzcQB+AAykSUqhdAATU0VSVklDRV9VTkFWQUlMQUJMRXNxAH4ADKR416p0AAVpbmRleHNxAH4ADFhm4Kh0AAdjcmVhdGVkc3EAfgAM8bvRaXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BSXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGmNvbnRyb2xsZXJzLkhvbWVDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AWJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BSUwACWluaGVyaXRlZHEAfgFJTAAHcGFyZW50c3EAfgFJeHEAfgFnc3EAfgFidXEAfgFEAAAAAHNxAH4BYnVxAH4BRAAAAABzcQB+AWJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AWZ0AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgF/dAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AYBzcQB+AXN0AAdSZXN1bHRzc3EAfgF3c3EAfgF6dXEAfgF9AAAAA3NxAH4Bf3QABHBsYXlzcQB+AX90AANtdmNxAH4BhnNxAH4Bc3QAC0h0dHAkU3RhdHVzc3EAfgF3c3EAfgF6dXEAfgF9AAAAA3NxAH4Bf3QABHBsYXlzcQB+AX90AANtdmNxAH4BhnNxAH4Bc3QAEEh0dHAkSGVhZGVyTmFtZXNzcQB+AXdzcQB+AXp1cQB+AX0AAAADc3EAfgF/dAAEcGxheXNxAH4Bf3QAA212Y3EAfgGGc3EAfgFzdAAGT2JqZWN0c3EAfgF3c3EAfgF6dXEAfgF9AAAAA3NxAH4Bf3QABGphdmFzcQB+AX90AARsYW5ncQB+AYZzcQB+AUZxAH4BU3EAfgFVcQB+AVdxAH4BWHEAfgFafnEAfgFbdAAGTW9kdWxldXEAfgFfAAAAAXQAFGphdmEubGFuZy5EZXByZWNhdGVkc3EAfgFicQB+AWhzcQB+AWJzcQB+AWpzcQB+AWJ1cQB+AUQAAAAAc3EAfgFidXEAfgFEAAAAAHNxAH4BYnVxAH4BcQAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcENobN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL2hvbWUvdnV6ZXIvbXktZmlyc3QtYXBwL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ+Qf0i3E0EWB6p5M6jqZA+c3j/Ww==
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwCWaRcQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAACbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw1filMnQADW5vdEFjY2VwdGFibGVzcQB+AAzx/cC/dAAGbm90aWZ5c3EAfgAM4lkC9HQABEZST01zcQB+AAxOlC8XdAAQbW92ZWRQZXJtYW5lbnRseXNxAH4ADPfikAl0ABBDT05URU5UX0xBTkdVQUdFc3EAfgAMAhNUFHQAB0NSRUFURURzcQB+AAxK/I6rdAARdGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAxkQKCYdAAHV0FSTklOR3NxAH4ADGjP0Sh0AAhDT05USU5VRXNxAH4ADJF1Eyh0AAtTRVRfQ09PS0lFMnNxAH4ADKOlUS50ABFwZXJtYW5lbnRSZWRpcmVjdHNxAH4ADGuq94t0ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgAMGL+uPHQACHNheUhlbGxvc3EAfgAMsy3mC3QADENPTlRFTlRfVFlQRXNxAH4ADGFVbYB0AApiYWRSZXF1ZXN0c3EAfgAMmvwkD3QABHdhaXRzcQB+AAxfegrDdAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfTUVUSE9EU3NxAH4ADCNRucR0AApVU0VSX0FHRU5Uc3EAfgAMo8vWGHQAA2N0eHNxAH4ADE8oDkx0AARIT1NUc3EAfgAMpt20/HQAC0NPTlRFTlRfTUQ1c3EAfgAMsc+ia3QAB3JlcXVlc3RzcQB+AAw9ThwBdAAQWF9GT1JXQVJERURfUE9SVHNxAH4ADDulAAh0AA9wYXltZW50UmVxdWlyZWRzcQB+AAwtQ/tCdAALQkFEX1JFUVVFU1RzcQB+AAzeUvj5dAAMTUFYX0ZPUldBUkRTc3EAfgAMN6KhWnQAEFhfRk9SV0FSREVEX0hPU1RzcQB+AAwJs60ydAAIcmVkaXJlY3RzcQB+AAx5/g5udAAHVFJBSUxFUnNxAH4ADBdFohp0ABJQUk9YWV9BVVRIRU5USUNBVEVzcQB+AAwkJir4dAANQVVUSE9SSVpBVElPTnNxAH4ADH7rzQZ0AA1DQUNIRV9DT05UUk9Mc3EAfgAMf3sxh3QAD05PVF9JTVBMRU1FTlRFRHNxAH4ADMULXHt0AAZlcXVhbHNzcQB+AAxyj/KcdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4ADPjpZc50AAtSRVRSWV9BRlRFUnNxAH4ADCSWH8F0ABNQUkVDT05ESVRJT05fRkFJTEVEc3EAfgAM9RQeuXQACENPTkZMSUNUc3EAfgAM7lXMPnQADkFDQ0VQVF9DSEFSU0VUc3EAfgAMhL5BBnQAA1ZJQXNxAH4ADDrn4hJ0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAy8PZCrdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4ADOC1xGx0AAhub3RGb3VuZHNxAH4ADEGmiDZ0ABFNT1ZFRF9QRVJNQU5FTlRMWXNxAH4ADOp+QMJ0AAJURXNxAH4ADAvn2+J0ABBDT05URU5UX0xPQ0FUSU9Oc3EAfgAMpWlYbHQAD1BBUlRJQUxfQ09OVEVOVHNxAH4ADMIUJ7x0ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4ADIM/OLt0AARFVEFHc3EAfgAM3OOsbHQAD0xFTkdUSF9SRVFVSVJFRHNxAH4ADPqdjAF0AAxVTkFVVEhPUklaRURzcQB+AAwOvlm7dAAWVU5TVVBQT1JURURfTUVESUFfVFlQRXNxAH4ADD3gqzJ0AAdSRUZFUkVSc3EAfgAM2miXO3QAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4ADHPPn/10AAZPUklHSU5zcQB+AAygTXwrdAAPQUNDRVBUX0xBTkdVQUdFc3EAfgAMLh1Aj3QADE5PVF9NT0RJRklFRHNxAH4ADCF6URZ0ABpIVFRQX1ZFUlNJT05fTk9UX1NVUFBPUlRFRHNxAH4ADAAU/iN0ABtBQ0NFU1NfQ09OVFJPTF9BTExPV19PUklHSU5zcQB+AAz1NkhZdAAISUZfUkFOR0VzcQB+AAzxNglldAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4ADDXoMqh0ABR1bnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4ADDj1Nxp0ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgAMAdG9PHQAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4ADLvn3x90AA5DT05URU5UX0xFTkdUSHNxAH4ADLXfriN0AAtJTV9BX1RFQVBPVHNxAH4ADEeKOcx0AApTRVRfQ09PS0lFc3EAfgAMteThbnQACW5vdGlmeUFsbHNxAH4ADO0y0bN0AANBR0VzcQB+AAxUuMIpdAALQkFEX0dBVEVXQVlzcQB+AAx/OW7ydAASRVhQRUNUQVRJT05fRkFJTEVEc3EAfgAMiq5GLXQACkNPTk5FQ1RJT05zcQB+AAy29npqdAAJRk9SV0FSREVEc3EAfgAMkwrdanQAAk9Lc3EAfgAMtlYdSHQADE15SnNvblNhbXBsZXNxAH4ADJI455d0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19IRUFERVJTc3EAfgAMIBaY63QABWZvdW5kc3EAfgAMSW/V3nQADHVuYXV0aG9yaXplZHNxAH4ADF1k+i10AAhyZXNwb25zZXNxAH4ADLJtgc90AAVGT1VORHNxAH4ADOLDUt90AAY8aW5pdD5zcQB+AAzEgFd/dAAEREFURXNxAH4ADNvgxIh0AA1DT05URU5UX1JBTkdFc3EAfgAMK5yXRXQACXNheUhlbGxvMnNxAH4ADOlTuWx0ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4ADOFBhRN0ABJQRVJNQU5FTlRfUkVESVJFQ1RzcQB+AAzxZGEYdAARVE9PX01BTllfUkVRVUVTVFNzcQB+AAyDmwRodAATUFJPWFlfQVVUSE9SSVpBVElPTnNxAH4ADH+ct1B0AARHT05Fc3EAfgAMPYo9bHQAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgAMXOdM6XQACWNsZWFyTGFuZ3NxAH4ADJtEpv90AA5OT1RfQUNDRVBUQUJMRXNxAH4ADFwbPcV0AAZzdGF0dXNzcQB+AAw4W+G6dAAGRVhQRUNUc3EAfgAM8PNY4XQACExPQ0FUSU9Oc3EAfgAMMHGoT3QABFZBUllzcQB+AAzLAA54dAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4ADPfSKu50AARUT0RPc3EAfgAMwbn+yXQACWZvcmJpZGRlbnNxAH4ADD67oRd0AA9YX0ZPUldBUkRFRF9GT1JzcQB+AAw8UzBAdAAIQUNDRVBURURzcQB+AAwCU4eUdAAKTk9fQ09OVEVOVHNxAH4ADJ0sXy50ABVJTlRFUk5BTF9TRVJWRVJfRVJST1JzcQB+AAw23t//dAAHVVBHUkFERXNxAH4ADIecRx10AAlOT1RfRk9VTkRzcQB+AAyyJpgCdAAHc2Vzc2lvbnNxAH4ADPkFwLN0AA9BQ0NFUFRfRU5DT0RJTkdzcQB+AAyZ+lCfdAAHRVhQSVJFU3NxAH4ADHUPzwJ0AAhzZWVPdGhlcnNxAH4ADHPk1Q10AB9SRVFVRVNURURfUkFOR0VfTk9UX1NBVElTRklBQkxFc3EAfgAMS9hHonQAEFVQR1JBREVfUkVRVUlSRURzcQB+AAx9mXu9dAAIdG9TdHJpbmdzcQB+AAzmfodNdAAGQUNDRVBUc3EAfgAMiC2l4nQACmNoYW5nZUxhbmdzcQB+AAzsNPbfdAAPR0FURVdBWV9USU1FT1VUc3EAfgAMlA3cx3QABlNFUlZFUnNxAH4ADGqu+Kx0AB1BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX01FVEhPRHNxAH4ADAJcRfR0ABRVTlBST0NFU1NBQkxFX0VOVElUWXNxAH4ADMaYSpJ0ABZBQ0NFU1NfQ09OVFJPTF9NQVhfQUdFc3EAfgAMrjq4MHQADUxBU1RfTU9ESUZJRURzcQB+AAzCv9sedAAdQUNDRVNTX0NPTlRST0xfRVhQT1NFX0hFQURFUlNzcQB+AAwHP2YldAAeQUNDRVNTX0NPTlRST0xfUkVRVUVTVF9IRUFERVJTc3EAfgAM7g4pe3QABWZsYXNoc3EAfgAM5PrtBnQAE2ludGVybmFsU2VydmVyRXJyb3JzcQB+AAw8H3MedAACb2tzcQB+AAzDijOOdAAFQUxMT1dzcQB+AAxkTgfCdAAGQ09PS0lFc3EAfgAMAAPbcXQAEUlGX01PRElGSUVEX1NJTkNFc3EAfgAM+Fv3rHQACGdldENsYXNzc3EAfgAMnmBl03QAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAysemZodAAEbGFuZ3NxAH4ADKHN3890AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4ADOlxno10AAZQUkFHTUFzcQB+AAyU2lKTdAAISUZfTUFUQ0hzcQB+AAxi7OMzdAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAw1Pe38dAANUkVTRVRfQ09OVEVOVHNxAH4ADD4fppV0AAlTRUVfT1RIRVJzcQB+AAy5VDhgdAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAxnfJkgdAAQQ09OVEVOVF9FTkNPRElOR3NxAH4ADODa4tl0AAVSQU5HRXNxAH4ADMAMV5p0AAlVU0VfUFJPWFlzcQB+AAyLs4ebdAAUUkVRVUVTVF9VUklfVE9PX0xPTkdzcQB+AAyEWJDwdAAGTE9DS0VEc3EAfgAMPoEafnQACUZPUkJJRERFTnNxAH4ADP0mDRJ0ABJNRVRIT0RfTk9UX0FMTE9XRURzcQB+AAzHW8nfdAANSUZfTk9ORV9NQVRDSHNxAH4ADKDar2x0AA1BQ0NFUFRfUkFOR0VTc3EAfgAM+MhqZ3QACW5vQ29udGVudHNxAH4ADPT/vy50ABBYX1JFUVVFU1RFRF9XSVRIc3EAfgAMpJzyz3QAEVhfRk9SV0FSREVEX1BST1RPc3EAfgAMaIPySXQADE1VTFRJX1NUQVRVU3NxAH4ADGyd1VV0ABNTRVJWSUNFX1VOQVZBSUxBQkxFc3EAfgAMzMOBbHQABWluZGV4c3EAfgAMjY9UHHQAB2NyZWF0ZWRzcQB+AAzDkrfIdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgFNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAYY29udHJvbGxlcnMuTXlKc29uU2FtcGxldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AWZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BTUwACWluaGVyaXRlZHEAfgFNTAAHcGFyZW50c3EAfgFNeHEAfgFrc3EAfgFmdXEAfgFIAAAAAHNxAH4BZnVxAH4BSAAAAABzcQB+AWZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AWp0AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFqc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgGDdAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AYRzcQB+AXd0AAdSZXN1bHRzc3EAfgF7c3EAfgF+dXEAfgGBAAAAA3NxAH4Bg3QABHBsYXlzcQB+AYN0AANtdmNxAH4BinNxAH4Bd3QAC0h0dHAkU3RhdHVzc3EAfgF7c3EAfgF+dXEAfgGBAAAAA3NxAH4Bg3QABHBsYXlzcQB+AYN0AANtdmNxAH4BinNxAH4Bd3QAEEh0dHAkSGVhZGVyTmFtZXNzcQB+AXtzcQB+AX51cQB+AYEAAAADc3EAfgGDdAAEcGxheXNxAH4Bg3QAA212Y3EAfgGKc3EAfgF3dAAGT2JqZWN0c3EAfgF7c3EAfgF+dXEAfgGBAAAAA3NxAH4Bg3QABGphdmFzcQB+AYN0AARsYW5ncQB+AYpzcQB+AUpxAH4BV3EAfgFZcQB+AVtxAH4BXHEAfgFefnEAfgFfdAAGTW9kdWxldXEAfgFjAAAAAXQAFGphdmEubGFuZy5EZXByZWNhdGVkc3EAfgFmcQB+AWxzcQB+AWZzcQB+AW5zcQB+AWZ1cQB+AUgAAAAAc3EAfgFmdXEAfgFIAAAAAHNxAH4BZnVxAH4BdQAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcENobN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL2hvbWUvdnV6ZXIvbXktZmlyc3QtYXBwL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT4IP3GouTvLsEXnHBObljfa6Ko6Q==
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlpKaWgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAKc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9LdornQABm5vdGlmeXNxAH4ADCaNwgN0ABVNeVNlcnZlckNvbmZpZ1N0YXJ0dXBzcQB+AAwIZQDLdAAEd2FpdHNxAH4ADJ/P9u90AAZlcXVhbHNzcQB+AAxGkTaBdAAJbm90aWZ5QWxsc3EAfgAMIf0hMXQABjxpbml0PnNxAH4ADN/0+yZ0AAh0b1N0cmluZ3NxAH4ADKet1lt0AAhnZXRDbGFzc3NxAH4ADIjDXJB0AAdvblN0YXJ0c3EAfgAMlzWLKnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AK3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHG1vZGVscy5NeVNlcnZlckNvbmZpZ1N0YXJ0dXB1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ARHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgArTAAJaW5oZXJpdGVkcQB+ACtMAAdwYXJlbnRzcQB+ACt4cQB+AElzcQB+AER1cQB+ACYAAAAAc3EAfgBEdXEAfgAmAAAAAHNxAH4ARHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ASHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ASHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AYXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AYnNxAH4AVXQAE1NlcnZlckNvbmZpZ1N0YXJ0dXBzcQB+AFlzcQB+AFx1cQB+AF8AAAAEc3EAfgBhdAACaW9zcQB+AGF0AAVlYmVhbnNxAH4AYXQABWV2ZW50cQB+AGhzcQB+AChxAH4ANXEAfgA3cQB+ADlxAH4AOnEAfgA8fnEAfgA9dAAGTW9kdWxldXEAfgBBAAAAAHNxAH4ARHEAfgBKc3EAfgBEc3EAfgBMc3EAfgBEdXEAfgAmAAAAAHNxAH4ARHVxAH4AJgAAAABzcQB+AER1cQB+AFMAAAAAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGbW9kZWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdwQ2hs3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvaG9tZS92dXplci9teS1maXJzdC1hcHAvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ0/CGStWF31D68anX94nCmX1ixt
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUk6zRwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwy1A3G3QABm5vdGlmeXNxAH4ADA9OSmZ0AA5fZGVmYXVsdFByZWZpeHNxAH4ADDvyHBN0AAhzYXlIZWxsb3NxAH4ADJu2Rvh0AAR3YWl0c3EAfgAMk0c4dnQADSRhc0luc3RhbmNlT2ZzcQB+AAyyyqx5dAAGZXF1YWxzc3EAfgAMZwEeKnQABGFqYXhzcQB+AAz+YKFzdAAMYXNJbnN0YW5jZU9mc3EAfgAMWFchLnQADHN5bmNocm9uaXplZHNxAH4ADMNmc390AA0kaXNJbnN0YW5jZU9mc3EAfgAMUIb+CXQADVJldmVyc2VBc3NldHNzcQB+AAzFNVTHdAAJbm90aWZ5QWxsc3EAfgAMydb7gHQADGlzSW5zdGFuY2VPZnNxAH4ADNh/uMN0AAY8aW5pdD5zcQB+AAwz6Er9dAAJc2F5SGVsbG8yc3EAfgAMYpn+ZHQAAj09c3EAfgAMZDzUU3QABWNsb25lc3EAfgAM3fYEqXQACHRvU3RyaW5nc3EAfgAM1HHJjnQAAiE9c3EAfgAMHN5feHQACGdldENsYXNzc3EAfgAMpvhAN3QAE1JldmVyc2VNeUpzb25TYW1wbGVzcQB+AAzoMWvldAACbmVzcQB+AAyntHFQdAAJdmVyc2lvbmVkc3EAfgAMrlBTu3QAAmVxc3EAfgAMHNIQQHQAElJldmVyc2VBcHBsaWNhdGlvbnNxAH4ADA9mZ0h0AAIjI3NxAH4ADL6+ECx0AAhmaW5hbGl6ZXNxAH4ADGXWPbx0AAVpbmRleHNxAH4ADOIBR7t0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABljb250cm9sbGVycy5SZXZlcnNlQXNzZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBuc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVxAH4ATAAAAABzcQB+AGl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIdzcQB+AHp0AANBbnlzcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGdAAFc2NhbGFxAH4AjXNxAH4ATnEAfgBbdXEAfgBcAAAAAHNxAH4AXgB0AB9jb250cm9sbGVycy5SZXZlcnNlTXlKc29uU2FtcGxldXEAfgBhAAAAAHEAfgBldXEAfgBnAAAAAHNxAH4AaXEAfgBvc3EAfgBpc3EAfgBxc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVxAH4ATAAAAABzcQB+AGl1cQB+AHgAAAACc3EAfgB6cQB+AH1zcQB+AH5zcQB+AIF1cQB+AIQAAAADc3EAfgCGcQB+AIlzcQB+AIZxAH4Ai3EAfgCNc3EAfgB6cQB+AI9zcQB+AH5zcQB+AIF1cQB+AIQAAAACc3EAfgCGcQB+AJRxAH4AjXNxAH4ATnEAfgBbdXEAfgBcAAAAAHNxAH4AXgB0AB5jb250cm9sbGVycy5SZXZlcnNlQXBwbGljYXRpb251cQB+AGEAAAAAcQB+AGV1cQB+AGcAAAAAc3EAfgBpcQB+AG9zcQB+AGlzcQB+AHFzcQB+AGl1cQB+AEwAAAAAc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVxAH4AeAAAAAJzcQB+AHpxAH4AfXNxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4AiXNxAH4AhnEAfgCLcQB+AI1zcQB+AHpxAH4Aj3NxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AlHEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3BDaGzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUypltOTag3Mch27uy2ETGpE+NEg=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwSduJIQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwLaLjZnQABm5vdGlmeXNxAH4ADBsPkfp0AA5fZGVmYXVsdFByZWZpeHNxAH4ADJ/5etN0AAhzYXlIZWxsb3NxAH4ADN9vuJ50AAR3YWl0c3EAfgAMXDyRkXQADSRhc0luc3RhbmNlT2ZzcQB+AAxNklrZdAAGZXF1YWxzc3EAfgAMSDQDkXQABGFqYXhzcQB+AAwSitPAdAAMYXNJbnN0YW5jZU9mc3EAfgAMcj3Zk3QADHN5bmNocm9uaXplZHNxAH4ADB0/S2V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMdJ0FW3QADVJldmVyc2VBc3NldHNzcQB+AAzggOy0dAAJbm90aWZ5QWxsc3EAfgAM877gZnQADGlzSW5zdGFuY2VPZnNxAH4ADJ8R2mp0AAY8aW5pdD5zcQB+AAwakjGTdAAJc2F5SGVsbG8yc3EAfgAMWNAIdnQAAj09c3EAfgAM5NkDGnQABWNsb25lc3EAfgAMd94+KXQACHRvU3RyaW5nc3EAfgAMe8bj43QAAiE9c3EAfgAMa5i/gnQACGdldENsYXNzc3EAfgAM9WrtH3QAE1JldmVyc2VNeUpzb25TYW1wbGVzcQB+AAwvraYydAACbmVzcQB+AAyx/FkzdAAJdmVyc2lvbmVkc3EAfgAMAmuQsnQAAmVxc3EAfgAMsmmGknQAElJldmVyc2VBcHBsaWNhdGlvbnNxAH4ADCbo1Hp0AAIjI3NxAH4ADK1hzaN0AAhmaW5hbGl6ZXNxAH4ADB0aLvh0AAVpbmRleHNxAH4ADBpFjll0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACRjb250cm9sbGVycy5qYXZhc2NyaXB0LlJldmVyc2VBc3NldHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AG5zcQB+AGl1cQB+AEwAAAAAc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3NxAH4AenQAA0FueXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0AAVzY2FsYXEAfgCNc3EAfgBOcQB+AFt1cQB+AFwAAAAAc3EAfgBeAHQAKmNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZU15SnNvblNhbXBsZXVxAH4AYQAAAABxAH4AZXVxAH4AZwAAAABzcQB+AGlxAH4Ab3NxAH4AaXNxAH4AcXNxAH4AaXVxAH4ATAAAAABzcQB+AGl1cQB+AEwAAAAAc3EAfgBpdXEAfgB4AAAAAnNxAH4AenEAfgB9c3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnEAfgCJc3EAfgCGcQB+AItxAH4AjXNxAH4AenEAfgCPc3EAfgB+c3EAfgCBdXEAfgCEAAAAAnNxAH4AhnEAfgCUcQB+AI1zcQB+AE5xAH4AW3VxAH4AXAAAAABzcQB+AF4AdAApY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXBwbGljYXRpb251cQB+AGEAAAAAcQB+AGV1cQB+AGcAAAAAc3EAfgBpcQB+AG9zcQB+AGlzcQB+AHFzcQB+AGl1cQB+AEwAAAAAc3EAfgBpdXEAfgBMAAAAAHNxAH4AaXVxAH4AeAAAAAJzcQB+AHpxAH4AfXNxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4AiXNxAH4AhnEAfgCLcQB+AI1zcQB+AHpxAH4Aj3NxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AlHEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAWY29udHJvbGxlcnMuamF2YXNjcmlwdHNxAH4Ay3QAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdwQ2hs3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvaG9tZS92dXplci9teS1maXJzdC1hcHAvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOi1P+DRrlW6SbnOu5G58RspGahO
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5jIaUgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAANc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNYQyw3QABm5vdGlmeXNxAH4ADCIhT+10AAZBc3NldHNzcQB+AAxteurUdAAEd2FpdHNxAH4ADB+outB0AAZyb3V0ZXNzcQB+AAxVNlzidAAGZXF1YWxzc3EAfgAM3PCRHnQAEXJvdXRlcyRqYXZhc2NyaXB0c3EAfgAMfmE4eHQACW5vdGlmeUFsbHNxAH4ADKZaO4N0AAxNeUpzb25TYW1wbGVzcQB+AAzRnyHkdAAGPGluaXQ+c3EAfgAMS1Yq5HQAC0FwcGxpY2F0aW9uc3EAfgAMVarO+HQACHRvU3RyaW5nc3EAfgAMIQt8cHQACGdldENsYXNzc3EAfgAMHufqNnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AMXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEmNvbnRyb2xsZXJzLnJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBKc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ADFMAAlpbmhlcml0ZWRxAH4AMUwAB3BhcmVudHNxAH4AMXhxAH4AT3NxAH4ASnVxAH4ALAAAAABzcQB+AEp1cQB+ACwAAAAAc3EAfgBKdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBOdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBndAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBoc3EAfgAucQB+ADtxAH4APXEAfgA/cQB+AEBxAH4AQn5xAH4AQ3QABk1vZHVsZXVxAH4ARwAAAABzcQB+AEpxAH4AUHNxAH4ASnNxAH4AUnNxAH4ASnVxAH4ALAAAAABzcQB+AEp1cQB+ACwAAAAAc3EAfgBKdXEAfgBZAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdwQ2hs3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvaG9tZS92dXplci9teS1maXJzdC1hcHAvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM+RlBR5W8kbt1xiJnOQsTmgpZuG
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwfSHCpAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTYH5tnQABm5vdGlmeXNxAH4ADGWb3lJ0AApiYWRSZXF1ZXN0c3EAfgAMgJgH0nQABHdhaXRzcQB+AAxy9pV9dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk2S3d0AAZyb3V0ZXNzcQB+AAx5b7vQdAANY3JlYXRlSW52b2tlcnNxAH4ADDoKbR50AAZlcXVhbHNzcQB+AAxUx9/vdAAGcHJlZml4c3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADAJP80p0AA1kb2N1bWVudGF0aW9uc3EAfgAMyAHA4HQADHN5bmNocm9uaXplZHNxAH4ADNpRt4V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQ6hwr3QACmhhbmRsZXJGb3JzcQB+AAzxTVAydAAJbm90aWZ5QWxsc3EAfgAMyGaE1HQADGlzSW5zdGFuY2VPZnNxAH4ADFEejfd0AAZhc0phdmFzcQB+AAzOS0WodAAMZXJyb3JIYW5kbGVyc3EAfgAMl5hnCnQABjxpbml0PnNxAH4ADFroZ7d0AAI9PXNxAH4ADDHdx6x0AAVjbG9uZXNxAH4ADOBEvnx0AAYkaW5pdCRzcQB+AAwUiwjJdAAGUm91dGVzc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMyb8nyHQAAiE9c3EAfgAMylHjK3QACWZha2VWYWx1ZXNxAH4ADHSi/xh0AAhnZXRDbGFzc3NxAH4ADDJgSaR0AAJuZXNxAH4ADAVx8Sx0AAp3aXRoUHJlZml4c3EAfgAMHZawrnQABGNhbGxzcQB+AAz3VL9+dAACZXFzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAyFs1FvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANcm91dGVyLlJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHdzcQB+AHJ1cQB+AFQAAAAAc3EAfgBydXEAfgBUAAAAAHNxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdnQAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Aj3QABGNvcmVzcQB+AI90AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJBzcQB+AIN0AAZSb3V0ZXJzcQB+AIdzcQB+AIp1cQB+AI0AAAAEc3EAfgCPdAAEcGxheXNxAH4Aj3QAA2FwaXNxAH4Aj3QAB3JvdXRpbmdxAH4AmHNxAH4Ag3QABk9iamVjdHNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCYc3EAfgCDdAADQW55c3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QABXNjYWxhcQB+AJh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3BDaGzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUe6w+urXUZWGC5cR3dxSa7FxrXaI=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyXv9DQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3SNaY3QABm5vdGlmeXNxAH4ADDqZ8+l0AAxieU5hbWVQcmVmaXhzcQB+AAwaoC4qdAAEd2FpdHNxAH4ADCKKFB50AA0kYXNJbnN0YW5jZU9mc3EAfgAMaULSCHQABmVxdWFsc3NxAH4ADHOOIFd0AAZwcmVmaXhzcQB+AAyh7h6fdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdNNC3QADFJvdXRlc1ByZWZpeHNxAH4ADMFVI+50AAxzeW5jaHJvbml6ZWRzcQB+AAzc9bSjdAANJGlzSW5zdGFuY2VPZnNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3BDaGzdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUO+Wn6GBHEnSWpX3ILkETZBoOCf8=
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwEESFUAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNVSgq3QABm5vdGlmeXNxAH4ADNXoUtZ0AAZmb3JtYXRzcQB+AAxo1BiadAAEd2FpdHNxAH4ADFIBw8p0AA0kYXNJbnN0YW5jZU9mc3EAfgAMUNkVknQADHByb2R1Y3RBcml0eXNxAH4ADGrlpqx0AAZlcXVhbHNzcQB+AAz4YTDsdAAMYXNJbnN0YW5jZU9mc3EAfgAM0dzQcHQAAWZzcQB+AAwvpcnIdAAMc3luY2hyb25pemVkc3EAfgAMaZaFyHQACV9kaXNwbGF5X3NxAH4ADEtVoHB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMItkgYHQAA3JlZnNxAH4ADDnYA+F0AAhjYW5FcXVhbHNxAH4ADHuYsJV0AA1wcm9kdWN0UHJlZml4c3EAfgAM7YhdOXQACW5vdGlmeUFsbHNxAH4ADGv02DF0AAxpc0luc3RhbmNlT2ZzcQB+AAx3u5bvdAAFYXBwbHlzcQB+AAwc0o66dAACPT1zcQB+AAxvd+FcdAAFY2xvbmVzcQB+AAyDwoOjdAAGJGluaXQkc3EAfgAMbzLXtXQABGNvcHlzcQB+AAwaY2oIdAAIdG9TdHJpbmdzcQB+AAyFbOdVdAACIT1zcQB+AAxEyrvwdAAIZ2V0Q2xhc3NzcQB+AAxGhC/8dAAOY29weSRkZWZhdWx0JDFzcQB+AAxDU5dpdAAGcmVuZGVyc3EAfgAMnyMNjHQAAm5lc3EAfgAM+/2EdXQAAmVxc3EAfgAMiKJzlHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADL/EnzZ0AAIjI3NxAH4ADJLr+590AAhmaW5hbGl6ZXNxAH4ADDhiRoR0AAVpbmRleHNxAH4ADGKrc2x0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOpsgOt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABB2aWV3cy5odG1sLmluZGV4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AeHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAhzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBldAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ad3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHEAfgCFeHEAfgB3dAAJVGVtcGxhdGUxc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCTdAAFdHdpcmxzcQB+AJN0AANhcGlzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlHVxAH4AggAAAAJzcQB+AIh0AAZTdHJpbmdzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QABGxhbmdxAH4AnHNxAH4AiHQABEh0bWxxAH4AjXNxAH4AhHNxAH4AiHQAEUJhc2VTY2FsYVRlbXBsYXRlcQB+AI11cQB+AIIAAAACcQB+AKdzcQB+AIRzcQB+AIh0AAZGb3JtYXRxAH4AjXVxAH4AggAAAAFxAH4Ap3NxAH4AiHQADFNlcmlhbGl6YWJsZXNxAH4Ai3NxAH4AjnVxAH4AkQAAAAJzcQB+AJN0AAVzY2FsYXEAfgCcc3EAfgCIcQB+ALJzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTcQB+AKRzcQB+AJN0AAJpb3EAfgCcc3EAfgCIdAAHUHJvZHVjdHEAfgCzc3EAfgCIdAAGRXF1YWxzcQB+ALNzcQB+AIh0AAZPYmplY3RxAH4AoHNxAH4AiHQAA0FueXEAfgCzdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdmlld3NzcQB+AMl0AAp2aWV3cy5odG1sc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFdx3ndN3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADIvaG9tZS92dXplci9teS1maXJzdC1hcHAvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDRRuLuF26FPtVZtzHMtVB9nRTE+
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRhDfaQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwb+/wonQABm5vdGlmeXNxAH4ADK83o610AAZmb3JtYXRzcQB+AAxKsHYEdAAEd2FpdHNxAH4ADGy6tAt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMvvutHXQADHByb2R1Y3RBcml0eXNxAH4ADCbrt810AAZlcXVhbHNzcQB+AAyaL2ewdAAMYXNJbnN0YW5jZU9mc3EAfgAMnNVJUnQAAWZzcQB+AAzmERROdAAMc3luY2hyb25pemVkc3EAfgAMBK3hs3QACV9kaXNwbGF5X3NxAH4ADHd6P590AA0kaXNJbnN0YW5jZU9mc3EAfgAMuWHFt3QAA3JlZnNxAH4ADBVUGdF0AAhjYW5FcXVhbHNxAH4ADIKrCvd0AARtYWluc3EAfgAM2VVa1nQADXByb2R1Y3RQcmVmaXhzcQB+AAy4G/MXdAAJbm90aWZ5QWxsc3EAfgAMK6qIwnQADGlzSW5zdGFuY2VPZnNxAH4ADHsQktJ0AAVhcHBseXNxAH4ADLYU7tR0AAI9PXNxAH4ADNyI9jh0AAVjbG9uZXNxAH4ADNdDMsF0AAYkaW5pdCRzcQB+AAytaqoWdAAEY29weXNxAH4ADNBaeYR0AAh0b1N0cmluZ3NxAH4ADIJ0HTt0AAIhPXNxAH4ADPnqnDB0AAhnZXRDbGFzc3NxAH4ADHVD17Z0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMVocf10AAZyZW5kZXJzcQB+AAxZvzhVdAACbmVzcQB+AAx+dcPKdAACZXFzcQB+AAx8u4NedAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMsEEnAnQAAiMjc3EAfgAMSDV9PnQACGZpbmFsaXplc3EAfgAM+zDaZnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0CuhpXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAD3ZpZXdzLmh0bWwubWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ac3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHhzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAIc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHdzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXhxAH4AhXhxAH4Ad3QACVRlbXBsYXRlMnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ad3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Ak3QABXR3aXJsc3EAfgCTdAADYXBpc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJR1cQB+AIIAAAADc3EAfgCIdAAGU3RyaW5nc3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3QABGphdmFzcQB+AJN0AARsYW5ncQB+AJxzcQB+AIh0AARIdG1scQB+AI1zcQB+AIh0AARIdG1scQB+AI1zcQB+AIRzcQB+AIh0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgCNdXEAfgCCAAAAAnEAfgCpc3EAfgCEc3EAfgCIdAAGRm9ybWF0cQB+AI11cQB+AIIAAAABcQB+AKlzcQB+AIh0AAxTZXJpYWxpemFibGVzcQB+AItzcQB+AI51cQB+AJEAAAACc3EAfgCTdAAFc2NhbGFxAH4AnHNxAH4AiHEAfgC0c3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3EAfgCkc3EAfgCTdAACaW9xAH4AnHNxAH4AiHQAB1Byb2R1Y3RxAH4AtXNxAH4AiHQABkVxdWFsc3EAfgC1c3EAfgCIdAAGT2JqZWN0cQB+AKBzcQB+AIh0AANBbnlxAH4AtXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXZpZXdzc3EAfgDLdAAKdmlld3MuaHRtbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcENobN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAyL2hvbWUvdnV6ZXIvbXktZmlyc3QtYXBwL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRdCVAxasCQqdM7T3p/4M+cvuqDeg==
+external apis:
+0 items
+source infos:
+11 items
+/home/vuzer/my-first-app/app/controllers/Application.java -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/app/controllers/HomeController.java -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/app/controllers/MyJsonSample.java -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/app/models/MyServerConfigStartup.java -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/Routes.scala -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/index.template.scala -> 
+AAAAAAAAAAA=
+/home/vuzer/my-first-app/target/scala-2.12/twirl/main/views/html/main.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+34 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXafa5xJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXafi5691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXafjLVp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXavfvPN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXb+DwLV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcDSOz91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcENobN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcEiqhB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcFR32Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcFU5cl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcFepQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcFhfPl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcFulcN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcFy0pp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcF204t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcF6SUd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcGFBhF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcGdJXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHEGW11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHG86R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHNBdx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHUWg51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHXHlt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHZcWp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHfQIl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcHhItF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcZwDsx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcbyd+N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXccH0jZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcdz6Kd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcd10b51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXcd53Td1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXceDRqx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXceJoJ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMi9ob21lL3Z1emVyL215LWZpcnN0LWFwcC90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
